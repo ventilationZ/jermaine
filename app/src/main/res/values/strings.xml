@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SimpleListviewApp</string>
+    <string-array name="Services">
+        <item>Fuliza</item>
+        <item>KCB Mpesa</item>
+        <item>Send Money</item>
+        <item>Send Tokens</item>
+    </string-array>
+</resources>
